@@ -1,4 +1,4 @@
-# Storage Account
+# Azure Storage Account
 
 ## Providers
 
